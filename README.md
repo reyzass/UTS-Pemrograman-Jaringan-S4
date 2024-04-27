@@ -9,6 +9,8 @@ KELAS : IF 02-01
 
 Berikut Cara Program Dijalankan :
 -
+Pertama buat 2 terminal terlebih dahulu seperti dibawah, yang kiri untuk Server & kanan untuk Client. Pada bagian server ketik **python server.py** & pada bagian Client ketik **python client.py**, lalu tekan **Enter**.
+
 ![image](https://github.com/reyzass/UTS-Pemrograman-Jaringan-S4/assets/162030249/1c69f4ee-a51d-45f7-a095-a3bc27486fe1)
 
 Penjelasan How Code Works
