@@ -7,7 +7,7 @@ NIM   : 1203220045
 KELAS : IF 02-01
 -
 
-Berikut Cara Program Djalankan :
+Berikut Cara Program Dijalankan :
 -
 ![image](https://github.com/reyzass/UTS-Pemrograman-Jaringan-S4/assets/162030249/1c69f4ee-a51d-45f7-a095-a3bc27486fe1)
 
